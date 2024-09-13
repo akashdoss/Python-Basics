@@ -1,0 +1,44 @@
+1. What is Python?
+Python is a high-level, general-purpose programming language known for its simplicity and readability. It supports multiple programming paradigms like procedural, object-oriented, and functional programming. Python is popular for tasks like web development, data analysis, automation, machine learning, and more.
+
+2. Python Versions (Python 2 vs Python 3)
+Python 2 and Python 3 are the two major versions of Python. Python 2, though widely used in the past, is deprecated, and Python 3 is now the standard. Python 3 introduced several improvements, including better syntax, more powerful libraries, and consistent Unicode handling. All modern projects use Python 3.
+
+3. How Python is Used
+Web development: Using frameworks like Django, Flask
+Data Science: Using libraries like NumPy, Pandas, and Matplotlib
+Automation: Writing scripts to automate repetitive tasks
+Machine Learning: Using libraries like TensorFlow, Scikit-learn
+Game Development: Using engines like Pygame
+
+
+4. Installing Python
+Visit [Link text](https://www.python.org/)
+ to download the latest version of Python.
+For Windows: Use the installer and ensure to check "Add Python to PATH".
+For macOS: Install using Homebrew (brew install python).
+For Linux: Install via package manager (sudo apt install python3).
+
+
+5. Running Python Code
+You can run Python code in multiple ways:
+IDLE: The built-in Python IDE.
+Terminal/Command Prompt: Use the python3 command.
+VS Code: A popular text editor that supports Python via extensions.
+Simple Python Program
+Program 1: Print "Hello, World!"
+python
+print("Hello, World!")
+
+
+Program 2: Add two numbers
+python
+a = 10
+b = 20
+sum = a + b
+print(sum)
+
+Program 3: Simple input and output
+python
+name = input("Enter your name: ")
+print("Hello, " + name)
