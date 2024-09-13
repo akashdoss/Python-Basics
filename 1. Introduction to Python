@@ -13,8 +13,7 @@ Game Development: Using engines like Pygame
 
 
 4. Installing Python
-Visit [Click Here](https://www.python.org/)
- to download the latest version of Python.
+[Visit Python's Official Website](https://www.python.org/)to download the latest version of Python.
 For Windows: Use the installer and ensure to check "Add Python to PATH".
 For macOS: Install using Homebrew (brew install python).
 For Linux: Install via package manager (sudo apt install python3).
